@@ -1,0 +1,53 @@
+﻿html {
+    /*background-color: rgba(112,118,172,0.5);
+    color: #7076AC;*/
+}
+
+body {
+    margin: 0 50px;
+}
+
+.purple-background {
+    background-color: rgba(111,118,171,0.4);
+}
+
+.textblock {
+}
+
+.logo {
+}
+
+.contacts {
+}
+
+.mainbody {
+    min-height: 500px;
+    margin-left: 0;
+    text-align: center;
+}
+
+.details {
+    text-align: center;
+}
+
+.background {
+    background-image: url(img/background_w.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.photos {
+    padding: 10px;
+}
+
+.copyright {
+    text-align: right;
+    font-size: small;
+    padding: 0 25px 20px 0;
+}
+
+.headline {
+    padding: 20px 50px;
+    height: fit-content;
+}
