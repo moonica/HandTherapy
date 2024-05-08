@@ -3,6 +3,11 @@
     color: #7076AC;*/
 }
 
+h1 {
+    font-size: 48px;
+    font-size: xxx-large;
+}
+
 .logo {
     margin-top: -100px;
 }
@@ -20,12 +25,20 @@
 }
 
 .headline {
+    padding: 20px 0;
+    height: fit-content;
+    text-align: center;
+}
+
+.banner {
     padding: 20px 10%;
     height: fit-content;
     text-align: center;
 }
 
-.name {
+}
+
+.businesscard {
     margin-bottom: 50px;
 }
 
@@ -87,4 +100,27 @@
     text-align: right;
     font-size: small;
     padding: 5px 25px;
+}
+
+/* FONTS */
+.uppercase {
+    text-transform: uppercase;
+}
+
+.trebuchet-font {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.julius-sans-one-regular-font {
+    font-family: "Julius Sans One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.comfortaa-font {
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    /*font-weight: 400; /*between 300 and 700*/
+    font-weight: bold;
+    font-style: normal;
 }
