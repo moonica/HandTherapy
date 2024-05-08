@@ -11,10 +11,6 @@
       "RelativeMoniker": "D:0:0:{5E4D8797-B045-482C-AB2B-401C1DEF22F0}|C:\\Work\\Brown Cow\\Jenni\\HandTherapy|solutionrelative:site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E4D8797-B045-482C-AB2B-401C1DEF22F0}|C:\\Work\\Brown Cow\\Jenni\\site|C:\\Work\\Brown Cow\\Jenni\\HandTherapy\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5E4D8797-B045-482C-AB2B-401C1DEF22F0}|C:\\Work\\Brown Cow\\Jenni\\site|solutionrelative:site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E4D8797-B045-482C-AB2B-401C1DEF22F0}|C:\\Work\\Brown Cow\\Jenni\\HandTherapy|c:\\work\\brown cow\\jenni\\handtherapy\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{5E4D8797-B045-482C-AB2B-401C1DEF22F0}|C:\\Work\\Brown Cow\\Jenni\\HandTherapy|solutionrelative:site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
@@ -44,7 +40,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Work\\Brown Cow\\Jenni\\HandTherapy\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABNAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwFIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-05-07T19:00:26.55Z",
               "EditorCaption": ""
@@ -67,26 +63,14 @@
               "RelativeDocumentMoniker": "site.css",
               "ToolTip": "C:\\Work\\Brown Cow\\Jenni\\HandTherapy\\site.css",
               "RelativeToolTip": "site.css",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAAYAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-08T14:37:20.394Z",
+              "WhenOpened": "2024-05-08T19:56:23.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Work\\Brown Cow\\Jenni\\HandTherapy\\site.css",
-              "RelativeDocumentMoniker": "site.css",
-              "ToolTip": "C:\\Work\\Brown Cow\\Jenni\\HandTherapy\\site.css",
-              "RelativeToolTip": "site.css",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAD8AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-07T19:00:23.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Work\\Brown Cow\\Jenni\\HandTherapy\\site.js",
               "RelativeDocumentMoniker": "site.js",
