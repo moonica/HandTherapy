@@ -47,7 +47,7 @@ i.fa {
 }
 
 .businesscard {
-    margin-bottom: 50px;
+    margin-bottom: 3rem;
 }
 
 .purple {
@@ -70,6 +70,15 @@ i.fa {
     background-size: contain;
 }
 
+.high-five {
+    margin-top: -40px;
+    margin-bottom: 10px;
+}
+
+.jenni {
+    margin: auto;
+}
+
 .details {
     text-align: center;
     margin: auto 0;
@@ -79,8 +88,16 @@ i.fa {
         padding: 50px;
     }
 
+.bio {
+    margin-bottom: 3rem;
+}
+
 .details-block {
     display: grid;
+}
+
+.contact {
+    margin-top: 3rem;
 }
 
 .mainbody {
@@ -90,7 +107,8 @@ i.fa {
     padding: 0;
     padding-left: 10%;
     padding-right: 10%;
-    height: 100%
+    height: 100%;
+    min-height: 500px;
 }
 
 .photos {
@@ -104,9 +122,9 @@ i.fa {
         background-color: white;
     }
 
-.photos.mobile img {
-    padding: 5px;
-}
+    .photos.mobile img {
+        padding: 5px;
+    }
 
 .photo-row {
     margin: auto;
